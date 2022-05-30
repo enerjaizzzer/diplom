@@ -1,0 +1,38 @@
+.product-container {
+  max-width: 2560px;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.product-container__item {
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  width: 100%;
+  opacity: 1;
+  transition: all .5s;
+  object-fit: cover;
+}
+
+.product-container__item-2 {
+  transform: translate(-5%,5%);
+}
+
+.product-container__item-3 {
+  transform: translate(10%,6%);
+  transition: all 1s;
+}
+
+.product-container__item-3 {
+  transform: translate(10%,-5%);
+}
+
+.product-container__item-1_active,
+.product-container__item-2_active,
+.product-container__item-3_active,
+.product-container__item-4_active {
+  opacity: 1;
+  transform: translate(0,0);
+}

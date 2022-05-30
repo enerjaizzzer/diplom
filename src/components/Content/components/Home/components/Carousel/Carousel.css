@@ -1,0 +1,18 @@
+.carousel-container {
+  height: 814px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.carousel-container__slide {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-container__slide img {
+  width: 100%;
+  object-fit: cover;
+}
