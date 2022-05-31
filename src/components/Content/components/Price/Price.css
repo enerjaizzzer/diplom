@@ -1,0 +1,12 @@
+.price {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+
+}
+
+.price__item-block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

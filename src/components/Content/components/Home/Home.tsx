@@ -1,14 +1,15 @@
 import React from 'react';
-import {Carousel, About, Product, Perfect} from "./components";
+import * as C from "./components";
 import './Home.css'
 
 const Home = () => {
   return (
     <div className="home">
-      <Carousel />
-      <About />
-      <Product />
-      <Perfect />
+      <C.Carousel />
+      <C.About />
+      <C.Product />
+      <C.Perfect />
+      <C.Price />
     </div>
   );
 }
