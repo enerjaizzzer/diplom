@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/videoFeature/static/css/main.d9a0057c.css",
-    "main.js": "/videoFeature/static/js/main.7d97e0c2.js",
+    "main.css": "/videoFeature/static/css/main.1012bcc9.css",
+    "main.js": "/videoFeature/static/js/main.01328509.js",
     "static/js/787.87466e07.chunk.js": "/videoFeature/static/js/787.87466e07.chunk.js",
+    "static/media/jpeg": "/videoFeature/static/media/bb3e4e7bb00308f49d9348e3a31a1984.2fa1b58dfbe8440aa998.jpeg",
     "static/media/04.png": "/videoFeature/static/media/04.21cbfbc27da3c6c6f5d7.png",
     "static/media/perfection1.png": "/videoFeature/static/media/perfection1.877675251a13b7661e49.png",
     "static/media/1.jpg": "/videoFeature/static/media/1.d6129c5cf12e17892c35.jpg",
     "static/media/2.jpg": "/videoFeature/static/media/2.4da77dcdda7a2dfc3f8d.jpg",
-    "static/media/2.png": "/videoFeature/static/media/2.9748a747087c4dc29e41.png",
     "static/media/3.jpg": "/videoFeature/static/media/3.eb346eb12679bfcc0dc6.jpg",
     "static/media/map.jpg": "/videoFeature/static/media/map.643177ace77d51161c80.jpg",
     "static/media/01.jpg": "/videoFeature/static/media/01.f022c9d96fdf41da1dd3.jpg",
-    "static/media/1.png": "/videoFeature/static/media/1.300e4e8db857cd192283.png",
     "static/media/perfection3.png": "/videoFeature/static/media/perfection3.79975f1467992028fe5b.png",
     "static/media/02.png": "/videoFeature/static/media/02.b7c4091b1ec1714f916d.png",
     "static/media/perfection6.png": "/videoFeature/static/media/perfection6.3893065ba0d03851e89a.png",
@@ -20,12 +19,12 @@
     "static/media/perfection2.png": "/videoFeature/static/media/perfection2.28ec965a05e5e587871d.png",
     "static/media/03.png": "/videoFeature/static/media/03.adb4142d3b46637b3067.png",
     "index.html": "/videoFeature/index.html",
-    "main.d9a0057c.css.map": "/videoFeature/static/css/main.d9a0057c.css.map",
-    "main.7d97e0c2.js.map": "/videoFeature/static/js/main.7d97e0c2.js.map",
+    "main.1012bcc9.css.map": "/videoFeature/static/css/main.1012bcc9.css.map",
+    "main.01328509.js.map": "/videoFeature/static/js/main.01328509.js.map",
     "787.87466e07.chunk.js.map": "/videoFeature/static/js/787.87466e07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9a0057c.css",
-    "static/js/main.7d97e0c2.js"
+    "static/css/main.1012bcc9.css",
+    "static/js/main.01328509.js"
   ]
 }
