@@ -86,8 +86,6 @@ const image9_8 = require('./src/9/ae092a36802d0c52a6ea68355652b339.jpeg');
 const image9_9 = require('./src/9/b44bf84a4cbaa4c3f61d60a215352e5f.jpeg');
 const images9 = [image9_1,image9_2,image9_3,image9_4,image9_5,image9_6,image9_7,image9_8,image9_9];
 
-const images10 = [image3_1,image3_2,image3_3,image3_4,image3_5,image3_6,image3_7,image3_8];
-
 const image11_1 = require('./src/11/3ce5484c9eee0cfafe760ddbc01c52c6.jpeg');
 const image11_2 = require('./src/11/4da6587a5675593e1be8752f66ac891d.jpeg');
 const image11_3 = require('./src/11/818948675e196867fcc5541fadc5a603.jpeg');
