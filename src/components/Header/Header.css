@@ -12,3 +12,39 @@
   padding: 0 40px;
   background: #F7FAFC;
 }
+
+.header__logo {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-weight: 500;
+  line-height: 40px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.header__logo:hover .header__logo-first-word span:first-child,
+.header__logo:hover .header__logo-second-word span:first-child {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.header__logo:hover .header__logo-first-word span:last-child,
+.header__logo:hover .header__logo-second-word span:last-child {
+  text-shadow: 1px 1px 2px rgba(24, 144, 255, 0.5);
+}
+
+.header__logo-first-word {
+  display:flex; margin-bottom: -20px; align-items: end;
+}
+
+.header__logo-first-word span, .header__logo-second-word span {
+  transition: 0.3s;
+}
+
+.header__logo-second-word {
+  display:flex;
+  align-items: end;
+  transition: 0.3s;
+}

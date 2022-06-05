@@ -12,6 +12,11 @@
   cursor: pointer;
 }
 
+.card img {
+  max-height: 200px;
+  object-fit: contain;
+}
+
 .card:hover {
   box-shadow: -4px 4px 8px rgba(0, 0, 0, 0.1);
   transform: rotate(1deg);
