@@ -1,30 +1,36 @@
 {
   "files": {
-    "main.css": "/videoFeature/static/css/main.1012bcc9.css",
-    "main.js": "/videoFeature/static/js/main.01328509.js",
+    "main.css": "/videoFeature/static/css/main.275fd448.css",
+    "main.js": "/videoFeature/static/js/main.f491e873.js",
     "static/js/787.87466e07.chunk.js": "/videoFeature/static/js/787.87466e07.chunk.js",
+    "static/media/geforce-rtx-30-series-nvidia-dlss.jpg": "/videoFeature/static/media/geforce-rtx-30-series-nvidia-dlss.934a717b2c2849b55c95.jpg",
+    "static/media/geforce-rtx-30-series-2nd-gen-rtx.jpg": "/videoFeature/static/media/geforce-rtx-30-series-2nd-gen-rtx.323f5d0a03f8b0dbe609.jpg",
+    "static/media/NVIDIA-GeForce-RTX-30-Series-Graphics-Cards_Announcement_GeForce-RTX-3090_RTX-3080_RTX-3070_6.png": "/videoFeature/static/media/NVIDIA-GeForce-RTX-30-Series-Graphics-Cards_Announcement_GeForce-RTX-3090_RTX-3080_RTX-3070_6.3317b9ecf4d080f1ba22.png",
+    "static/media/vr-600-p@2x.jpg": "/videoFeature/static/media/vr-600-p@2x.606ec5d5201b4f30bd1e.jpg",
+    "static/media/jpg": "/videoFeature/static/media/34e7cd29d9ca66c66873d69403a05c33e6c3b249a718c87ee348f87059f7bd25.7d76b0ed87851f199fa7.jpg",
     "static/media/jpeg": "/videoFeature/static/media/bb3e4e7bb00308f49d9348e3a31a1984.2fa1b58dfbe8440aa998.jpeg",
+    "static/media/8k-fb-600-p@2x.jpg": "/videoFeature/static/media/8k-fb-600-p@2x.a165ad7f9c6ad926aac0.jpg",
     "static/media/04.png": "/videoFeature/static/media/04.21cbfbc27da3c6c6f5d7.png",
     "static/media/perfection1.png": "/videoFeature/static/media/perfection1.877675251a13b7661e49.png",
-    "static/media/1.jpg": "/videoFeature/static/media/1.d6129c5cf12e17892c35.jpg",
-    "static/media/2.jpg": "/videoFeature/static/media/2.4da77dcdda7a2dfc3f8d.jpg",
-    "static/media/3.jpg": "/videoFeature/static/media/3.eb346eb12679bfcc0dc6.jpg",
+    "static/media/H32UeKryVG-y9mZKFzkmMw.jpeg": "/videoFeature/static/media/H32UeKryVG-y9mZKFzkmMw.81fe2cdc6c38cd71b78a.jpeg",
     "static/media/map.jpg": "/videoFeature/static/media/map.643177ace77d51161c80.jpg",
+    "static/media/NVIDIA-GeForce-RTX-3080-Graphics-Card_Benchmarks-Game-Performance-Tests_3DMark_1.jpg": "/videoFeature/static/media/NVIDIA-GeForce-RTX-3080-Graphics-Card_Benchmarks-Game-Performance-Tests_3DMark_1.46c8d2c083ae33047b2e.jpg",
     "static/media/01.jpg": "/videoFeature/static/media/01.f022c9d96fdf41da1dd3.jpg",
     "static/media/perfection3.png": "/videoFeature/static/media/perfection3.79975f1467992028fe5b.png",
     "static/media/02.png": "/videoFeature/static/media/02.b7c4091b1ec1714f916d.png",
+    "static/media/RTX30.jpeg": "/videoFeature/static/media/RTX30.965878cc915cd66bb2c2.jpeg",
     "static/media/perfection6.png": "/videoFeature/static/media/perfection6.3893065ba0d03851e89a.png",
     "static/media/perfection5.png": "/videoFeature/static/media/perfection5.4f6a2a36862a0d09287f.png",
     "static/media/perfection4.png": "/videoFeature/static/media/perfection4.08bb048c01c641178a24.png",
     "static/media/perfection2.png": "/videoFeature/static/media/perfection2.28ec965a05e5e587871d.png",
     "static/media/03.png": "/videoFeature/static/media/03.adb4142d3b46637b3067.png",
     "index.html": "/videoFeature/index.html",
-    "main.1012bcc9.css.map": "/videoFeature/static/css/main.1012bcc9.css.map",
-    "main.01328509.js.map": "/videoFeature/static/js/main.01328509.js.map",
+    "main.275fd448.css.map": "/videoFeature/static/css/main.275fd448.css.map",
+    "main.f491e873.js.map": "/videoFeature/static/js/main.f491e873.js.map",
     "787.87466e07.chunk.js.map": "/videoFeature/static/js/787.87466e07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1012bcc9.css",
-    "static/js/main.01328509.js"
+    "static/css/main.275fd448.css",
+    "static/js/main.f491e873.js"
   ]
 }
